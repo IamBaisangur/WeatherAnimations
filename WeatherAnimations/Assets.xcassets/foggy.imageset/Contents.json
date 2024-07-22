@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "foggy.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
